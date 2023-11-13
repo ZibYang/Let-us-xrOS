@@ -7,9 +7,8 @@
 ### **TL;DR** :bulb:
 > This project does not require developers to disclose their source code; 
 > only the final binary files need to be uploaded, somewhat similar to the 
-> `.app`` files that are uploaded to the App Store. Our primary intention is
+> `.app` files that are uploaded to the App Store. Our primary intention is
 > to allow everyone to share their creativity without compromising their code privacy. 
-:tada:
 
 
 The release of Apple Vision Pro heralds the dawn of the spatial computing era, prompting tech enthusiasts and developers to start thinking about how to create unique three-dimensional applications on new interactions, systems, and hardware.
