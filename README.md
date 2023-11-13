@@ -4,7 +4,7 @@
 
 > [English Instructions](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README.md), [Chinese Instructions](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_CN.md), [Japanese Instructions](https://github.com/XRealityZone/Let-us-xrOS/blob/main/README_JP.md)
 
-### **TL;DR** :bulb:
+### Highlight :bulb:
 > This project does not require developers to disclose their source code; 
 > only the final binary files need to be uploaded, somewhat similar to the 
 > `.app` files that are uploaded to the App Store. Our primary intention is
